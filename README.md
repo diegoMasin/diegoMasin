@@ -1,6 +1,7 @@
 ### Hi, you can just call me Diego <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/diego-masin-dev)](www.linkedin.com/in/diego-masin-dev)
+<a href="https://www.linkedin.com/in/diego-masin-dev/">
+  <img align="left" alt="Diego LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=diegoMasin.diegoMasin)
 
