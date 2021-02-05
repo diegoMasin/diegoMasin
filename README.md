@@ -1,4 +1,4 @@
-### Hi, you can just call me Diego <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Hi, you can just call me Diego <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/diego-masin-dev/">
   <img align="left" alt="Diego LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -7,8 +7,7 @@
 
 <br />
 
-
-I am a passionate and self-taught Full Stack Web and Mobile Developer
+I am a passionate and self-taught Full Stack Web and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
