@@ -31,35 +31,11 @@ I really enjoy studying in groups and teaching those who need help;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **This last week I spent my Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++        12 hrs 38 mins  █████████████████████▒░░░   85.87 % 
-HTML       1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Markdown   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-YAML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+React      12 hrs 38 mins  █████████████████████▒░░░   85.87 % 
+Node       1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Html/Css   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 <!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,111 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 543 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
-
-
