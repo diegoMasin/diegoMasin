@@ -2,22 +2,19 @@
 <a href="https://www.linkedin.com/in/diego-masin-dev/">
   <img align="left" alt="Diego LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=diegoMasin.diegoMasin)
-
-<br />
-
 I am a passionate and self-taught Full Stack Web and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**A little more about me...**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 👨🏽‍💻 At the moment I am studying Typecript and React a lot;
+- 🌱 I love learning new things; 
+- 💬 I'm always happy when I work with projects that have a lot of financial calculations...;
+- 📫 
+I really enjoy studying in groups and teaching those who need help;
+- 📝[My Resume](https://drive.google.com/file/d/1LZG74BtwI14RuRmhd9h9lYGU2y6RSr74/view)
 
 **Languages and Tools:**  
 
