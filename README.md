@@ -37,6 +37,6 @@ I really enjoy studying in groups and teaching those who need help;
 React      ██████████████░░░░░░░░░   65.00 %
 NodeJs     ████░░░░░░░░░░░░░░░░░░░   13.00 % 
 Python     ███░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Aws        ████░░░░░░░░░░░░░░░░░░░   03.00 % 
+Aws        ████░░░░░░░░░░░░░░░░░░░   13.00 % 
 ```
 <!--END_SECTION:waka-->
