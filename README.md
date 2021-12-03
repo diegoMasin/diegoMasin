@@ -31,11 +31,12 @@ I really enjoy studying in groups and teaching those who need help;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This last week I spent my Time On:**
+📊 **This last month I spent my Time On:**
 <!--START_SECTION:waka-->
 ```text
-React      12 hrs 38 mins  █████████████████████▒░░░   85.87 % 
-Node       1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Html/Css   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+React      ██████████████░░░░░░░░░   65.00 %
+NodeJs     ████░░░░░░░░░░░░░░░░░░░   13.00 % 
+Python     ███░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Aws        ████░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
