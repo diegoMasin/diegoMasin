@@ -16,7 +16,7 @@ I am a very appreciative developer of my career and my development. <img src="ht
 - 💬 I'm always happy when I work with projects that have a lot of financial calculations...;
 - 📫 
 I really enjoy studying in groups and teaching those who need help;
-- 📝 [My Resume](https://drive.google.com/file/d/1LZG74BtwI14RuRmhd9h9lYGU2y6RSr74/view)
+- 📝 [My Resume](https://drive.google.com/file/d/1NlNqf2YD0LIfKB6MqpTBb7DnAGcYzt-P/view)
 
 **Languages and Tools:**  
 
