@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=diegoMasin.diegoMasin)
 
-I am a passionate and self-taught Full Stack Web and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a very appreciative developer of my career and my development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
