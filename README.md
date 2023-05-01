@@ -3,8 +3,6 @@
   <img align="left" alt="Diego LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=diegoMasin.diegoMasin)
-
 I am a very appreciative developer of my career and my development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -34,9 +32,7 @@ I really enjoy studying in groups and teaching those who need help;
 📊 **This last month I spent my Time On:**
 <!--START_SECTION:waka-->
 ```text
-React      ██████████████░░░░░░░░░   65.00 %
-NodeJs     ████░░░░░░░░░░░░░░░░░░░   13.00 % 
-Python     ███░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Aws        ████░░░░░░░░░░░░░░░░░░░   13.00 % 
+NextJs     ██████████░░░░░░░░░   50.00 %
+Django     ██████████░░░░░░░░░   50.00 % 
 ```
 <!--END_SECTION:waka-->
