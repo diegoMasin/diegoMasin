@@ -1,37 +1,27 @@
-### Hi, you can just call me Diego <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am a very appreciative developer of my career and my development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<a href="https://www.linkedin.com/in/diego-masin-dev/">
-  <img align="left" alt="Diego LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+## Hi! You can just call me Diego.
+##### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a developer for 10 years ago. In addition to a career at certain times it is almost a hobby.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**A little more about me...**
+![Developer in pixel art](https://camo.githubusercontent.com/deb3dfb62bf6c11cdb41b1a4ddf18cd2f73fc01b2b05b6f17955ca6b4e31cb5a/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f32326232323238373630323532332e356462643239303831353631642e676966)
 
-- 👨🏽‍💻 At the moment I am studying Typecript and React a lot;
-- 🌱 I love learning new things; 
-- 💬 I'm always happy when I work with projects that have a lot of financial calculations...;
-- 📫 
-I really enjoy studying in groups and teaching those who need help;
+### A little more about me:
+
+- 👨🏽‍💻 At the moment I am studying React with Typescript and Django framework
+- 🌱 I love learning new things
+- 💬 I'm always happy when I work with projects that have a lot of calculations
 - 📝 [My Resume](https://drive.google.com/file/d/1NlNqf2YD0LIfKB6MqpTBb7DnAGcYzt-P/view)
+- <img alt="Diego LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [My Linkedin](https://www.linkedin.com/in/diego-masin-dev/)
+<br>
+### Languages and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/> <img src="https://webme.ie/wp-content/uploads/2019/08/How-to-run-a-python-django-app-in-docker.png" width="100" height="90"/>
 
-**Languages and Tools:**  
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=pinheiroras&theme=onedark" alt="pinheiroras" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinheiroras&layout=compact&langs_count=7&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=pinheiroras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<div align="center">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **This last month I spent my Time On:**
-<!--START_SECTION:waka-->
-```text
-NextJs     ██████████░░░░░░░░░   50.00 %
-Django     ██████████░░░░░░░░░   50.00 % 
-```
-<!--END_SECTION:waka-->
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  
+</div>
